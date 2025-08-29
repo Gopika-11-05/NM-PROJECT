@@ -1,5 +1,5 @@
 Hi!Everyone....
-well come to the project.
+welcome to the project.
 	TITLE: DESIGN THINKING
 	NAME : M. GOPIKA
 	BRANCH: IT
